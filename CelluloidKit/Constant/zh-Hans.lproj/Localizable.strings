@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Celluloid
+
+  Created by Mango on 16/3/13.
+  Copyright © 2016年 Mango. All rights reserved.
+*/
+
+"done" = "完成";
+"cancel" = "取消";
+"edit" = "编辑";
+
+"collage" = "拼图";
+"filter" = "滤镜";
+"bubble" = "气泡";
+"sticker" = "贴纸";
+
+"share" = "分享";
+"saved" = "保存成功";
+"beautify" = "美化";
